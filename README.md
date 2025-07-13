@@ -12,7 +12,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 The data is from the data nerd app, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [Project_1_Dashboard.xlsx](Project_1_Dashboard.xlsx).
+My final dashboard is in [Project_1_Dashboard](Data%20jobs%20project.xlsx).
 
 ### Excel Skills Used
 
